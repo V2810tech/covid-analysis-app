@@ -87,7 +87,8 @@ fig3 = plt.figure()
 growth.plot()
 plt.xlabel("Date")
 plt.ylabel("Growth Rate (%)")
-st.pyplot(fig3)")
+st.pyplot(fig3)
 
 st.pyplot(fig3)
+
 
